@@ -2,7 +2,7 @@
 
 ### Objetivo: 
 
-Como seria a pagina do Orkut Atualmente
+Como seria a pagina do Orkut Atualmente, no meu modo de ver, pois cada um tem uma criatividade diferente.
 
 ## Tecnologias Utilizadas
 <div style="display: inline_block">
@@ -12,6 +12,5 @@ Como seria a pagina do Orkut Atualmente
 
 ## Plataforma
 
-* Dio santander
-* https://web.dio.me/home
+* Dio santander, com modificações minhas.
 
