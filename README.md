@@ -1,5 +1,7 @@
 # Orkut atualmente
 
+Pra fim de recriar a pagina do orkut.
+
 ### Objetivo: 
 
 Como seria a pagina do Orkut Atualmente, no meu modo de ver, pois cada um tem uma criatividade diferente.
